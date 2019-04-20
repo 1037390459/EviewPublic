@@ -1,4 +1,4 @@
-1.Logo:  200px*200px (.png format image& no alpha channel)
+1.AppIcon:1024*1024px and Logo:  200px*200px (.png format image& no alpha channel)
 2.App name
 3.An IPHONE device UDID（Visite this： https://fir.im/udid）
 4.Server domain or IP address(suggest:provide server domain)
@@ -7,4 +7,4 @@
 7.Google developer account(Visite:http://play.google.com/apps/publish/signup)
 8.Privacy Policy URL (for upload to AppStore)
 9.Primary Color(eg:#2cc9bb argb format)
-10.Custom login page
+10.Custom launch page and login page
